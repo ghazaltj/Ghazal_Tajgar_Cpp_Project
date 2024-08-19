@@ -1,1 +1,0 @@
-# Ghazal_Tajgar_Cpp_Project
