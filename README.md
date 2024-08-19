@@ -5,7 +5,7 @@ The operations involved inserting and removing Shape objects, and the time taken
 
 The results demonstrated that Vector2Ptr performed significantly faster than the standard std::vector, 
 likely due to its more efficient memory handling and access patterns.
-(image url: https://github.com/ghazaltj/Ghazal_Tajgar_Cpp_Project/blob/master/Screenshot%202024-08-19%20112442.png) 
+![Results](Screenshot%202024-08-19%20112442.png)
 
 Part Two: Device Class
 In this part, I introduced a Device class that can contain simple shapes or other sub-devices.
